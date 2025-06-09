@@ -1,0 +1,1 @@
+Crie um roteiro de viagem de {dias} dias, para uma família com {quantidade_pessoas} crianças, que gostam de {atividade} 
